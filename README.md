@@ -2,7 +2,7 @@
 
 その日にコミットがなければLINEに通知を送ります。
 
-## 依存関係****
+## 依存関係
 
 - requests
 - BeautifulSoup4
